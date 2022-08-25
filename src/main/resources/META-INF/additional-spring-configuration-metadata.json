@@ -1,0 +1,55 @@
+{
+  "groups": [
+    {
+      "name": "wx",
+      "type": "com.wxaction.config.WxConfig",
+      "sourceType": "com.wxaction.config.WxConfig"
+    },
+    {
+      "name": "weather",
+      "type": "com.wxaction.config.WeatherConfig",
+      "sourceType": "com.wxaction.config.WeatherConfig"
+    },
+    {
+      "name": "msg",
+      "type": "com.wxaction.config.MsgConfig",
+      "sourceType": "com.wxaction.config.MsgConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wx.appid",
+      "type": "java.lang.String",
+      "sourceType": "com.wxaction.config.WxConfig"
+    },
+    {
+      "name": "wx.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.wxaction.config.WxConfig"
+    },
+    {
+      "name": "weather.appid",
+      "type": "java.lang.String",
+      "sourceType": "com.wxaction.config.WeatherConfig"
+    },
+    {
+      "name": "weather.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.wxaction.config.WeatherConfig"
+    },
+    {
+      "name": "weather.city",
+      "type": "java.lang.String",
+      "sourceType": "com.wxaction.config.WeatherConfig"
+    },
+    {
+      "name": "msg.scheduleSendOpenId",
+      "type": "java.util.List",
+      "sourceType": "com.wxaction.config.MsgConfig"
+    },
+    {
+      "name": "msg.suggest",
+      "type": "java.lang.String",
+      "sourceType": "com.wxaction.config.MsgConfig"
+    }
+  ]}

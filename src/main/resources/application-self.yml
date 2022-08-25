@@ -1,0 +1,16 @@
+server:
+  port: 9000
+wx:
+  appid: wx88e1f05e69d1a907
+  secret: ac358ffa0020e10946111f4bfe44c67d
+
+weather:
+  appid: 44896732
+  secret: fedcM1s7
+  city: 安国
+msg:
+  # 每天需要定时发送的open-id
+  schedule-send-open-id:
+    - oyeo16ofE7AOd-LcJjcg_x7CnG9A
+    - oyeo16lhcrKjyn3Ho1IY3OH3CTes
+  suggest: 好好学习！天天向上！

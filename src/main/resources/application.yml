@@ -1,0 +1,18 @@
+server:
+  port: 9000
+# https://mp.weixin.qq.com/
+wx:
+  appid: xx
+  secret: xx
+
+# https://www.yiketianqi.com/
+weather:
+  appid: xx
+  secret: xx
+  city: xx
+msg:
+  # 每天需要定时发送的open-id
+  schedule-send-open-id:
+    - xxxx
+    - xxxx
+  suggest: 好好学习！天天向上！

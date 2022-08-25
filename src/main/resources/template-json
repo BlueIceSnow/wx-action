@@ -1,0 +1,67 @@
+{
+  "touser":"xxxxxxx",
+  "template_id":"xxxxxxx",
+  "url":"http://weixin.qq.com/download",
+
+  "topcolor":"#FF0000",
+
+  "data":{
+
+    "DATE": {
+
+      "value": "%s",
+
+      "color":"#173177"
+    },
+
+    "CITY": {
+
+      "value":"%s",
+
+      "color":"#173177"
+    },
+    "WEATHER": {
+
+      "value":"%s",
+
+      "color":"#173177"
+    },
+    "LOW_OC": {
+
+      "value":"%s",
+
+      "color":"#173177"
+    },
+    "HEIGN_OC": {
+
+      "value":"%s",
+
+      "color":"#173177"
+    },
+    "LOVE_DAY": {
+
+      "value":"%s",
+
+      "color":"#173177"
+    },
+    "YOUR_BRITHDAY": {
+
+      "value":"%s",
+
+      "color":"#173177"
+    },
+    "MY_BRITHDAY": {
+
+      "value":"%s",
+
+      "color":"#173177"
+    },
+    "COMMENT": {
+
+      "value":"%s",
+
+      "color":"#173177"
+    }
+  }
+
+}
